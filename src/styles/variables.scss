@@ -1,0 +1,7 @@
+$gradient: linear-gradient(to right, #AC76F1, #76BAD7);
+$hover-gradient: linear-gradient(to right, lighten(#AC76F1, 20%), lighten(#76BAD7, 20%));
+$opacity-layer: 0.3;
+$border: 5px solid black;
+$border-radius: 0px;
+$thick-border: 7px solid black;
+$gradient-border: 5px solid $gradient;
